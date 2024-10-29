@@ -1,2 +1,2 @@
-# JS-chp-1-project
+# JS-project
 use html , css and JavaScript
